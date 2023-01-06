@@ -1,0 +1,7 @@
+.text {
+    min-height: 250px;
+}
+
+#image1 {
+    max-width: fit-content;
+}
